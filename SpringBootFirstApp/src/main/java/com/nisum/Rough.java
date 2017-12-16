@@ -17,6 +17,8 @@ public class Rough {
 			System.out.print("8");
 		}
 		System.out.println();
+		
+		
 	}
   }
  }

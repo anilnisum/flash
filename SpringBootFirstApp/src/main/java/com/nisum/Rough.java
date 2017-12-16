@@ -8,8 +8,11 @@ import java.util.TreeMap;
 
 public class Rough {
   public static void main(String[] args) {
-	String a ="anil";
-    System.out.println("raju "+ a);	
-    System.out.println(a+" raju");
+	for(int j=1; j<= 5; j++) {
+		for(int i=1; i<= j; i++) {
+			System.out.print("*");
+		}
+		System.out.println();
+	}
   }
  }
